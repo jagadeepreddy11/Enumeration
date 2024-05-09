@@ -115,8 +115,8 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
- ![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/38bd40b5-3696-4194-9187-b0303c9dcd12)
+##Output
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/38bd40b5-3696-4194-9187-b0303c9dcd12)
 
   
   
