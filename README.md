@@ -49,12 +49,19 @@ intext: This operator allows you to search for pages that contain specific text 
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/0ea3dac8-18ad-4576-a7c8-b48b00a02571)
+
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/3340986b-0726-43c7-b079-1ebcdcc20f63)
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/47be2ae9-5ed9-461c-95ea-ff12ce9aa9a2)
+
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/80b5bfbf-7902-4ba0-a3fc-9ae6a6b4d6f8)
 
  
 #DNS Enumeration
@@ -87,6 +94,8 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/7733a325-e78f-4f51-a4a3-69f3882792b0)
+
 
 
 ##smtp-user-enum
@@ -94,8 +103,11 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/b37ea118-c92a-4f3d-b123-64436c609746)
 
 select any username in the first column of the above file and check the same
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/aa129743-a645-4e38-a80b-1202d5953e0c)
+
 
 
 #Telnet for smtp enumeration
@@ -104,6 +116,8 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ##Output
+ ![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/38bd40b5-3696-4194-9187-b0303c9dcd12)
+
   
   
 
@@ -113,6 +127,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+![image](https://github.com/jagadeepreddy11/Enumeration/assets/150368525/5198b850-3b73-4fdb-aa6e-808724dd027b)
+
 
 
 ## RESULT:
